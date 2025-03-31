@@ -1,4 +1,4 @@
-通过委托实现recyclerview多布局
+通过委托实现recyclerview多布局\n
 Delegate 模式的优势
 优势
 1.高内聚	每种 Item 类型的所有逻辑集中在一个类中
